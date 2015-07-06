@@ -1,4 +1,4 @@
-#Coastguard.io product outline
+#Coastguard.io
 
 ##Premise
 An insanely beautiful visualization and infographic utility that turns your everyday docker-lovin’ sysadmin into a goddamn wizard of infinite power and knowledge.  New containers and hosts materialize out of thin (html-powered) air right before your very eyes.  Crazy helpful pixels of infographic magic caress your retina-cells with streams of all-knowing information.  You get the idea.  The ultimate docker visualization platform that works no matter where you run docker.
